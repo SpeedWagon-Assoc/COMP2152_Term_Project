@@ -2,23 +2,23 @@
 
 ## Team Name
 <!-- Replace with your team name -->
-Team _______
+SpeedWagon-Assoc
 
 ## Team Members
 
 | Member | Vulnerability Found | Branch Name |
 |--------|-------------------|-------------|
-| _______ | _______ | _______ |
-| _______ | _______ | _______ |
-| _______ | _______ | _______ |
+| Zuheb Mohamed | Missing Security Headers | zuheb_missing_headers |
+| Affan Telek | Open Redirect | affan_open_redirect |
+| Travis Eweka | Debug Trace Secret Leak | travis_secret_leak|
 
 ## Videos
 
 Each team member records a short video (max 3 minutes) explaining their vulnerability. Add your YouTube links below:
 
-- Member 1: https://youtube.com/watch?v=_______
-- Member 2: https://youtube.com/watch?v=_______
-- Member 3: https://youtube.com/watch?v=_______
+- Zuheb Mohamud: https://youtu.be/rJONFSLNfCc
+- Affan Telek: https://youtu.be/dgpjOWGQ48Y
+- Travis Eweka: https://youtu.be/mRxUzRfM0FU
 
 ## Target
 
